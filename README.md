@@ -20,7 +20,6 @@ Follow the guide by [Django Girls](https://tutorial.djangogirls.org/en/)
 
 ## Getting Started
 
-* [Installing python3](https://tutorial.djangogirls.org/en/python_installation/)
 * [What is a script?](http://whatis.techtarget.com/definition/script)
 * [Script vs Program](https://stackoverflow.com/questions/2286552/difference-between-a-script-and-a-program)
 
